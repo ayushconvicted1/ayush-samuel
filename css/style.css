@@ -45,9 +45,14 @@ body{
     font-size: 2rem;
 }
 .my-projects{
-    background-color:red;
-    width: 100vw;
+    background-color:#86A3B8;
     opacity:70%;
-    
-    
 }
+.project-block{
+    padding: 0 25%;
+}
+.image{
+    padding: 2rem;
+    margin-top: 1rem;
+}
+
